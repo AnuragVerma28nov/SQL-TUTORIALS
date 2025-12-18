@@ -16,6 +16,15 @@ SELECT *
 FROM employees
 WHERE department = 'Sales';
 
+-- 3. SELECT with DISTINCT
+SELECT DISTINCT department
+FROM employees;
+
+-- 4. SELECT with LIKE
+SELECT column_name
+FROM table_name
+WHERE column_name LIKE pattern; (%@gmail.com, %mobile%, _A, A_)
+
 -- 3. SELECT with ORDER BY
 SELECT first_name, hire_date
 FROM employees
@@ -27,8 +36,6 @@ FROM employees
 GROUP BY department
 HAVING COUNT(*) > 5;
 
--- 5. SELECT with DISTINCT
-SELECT DISTINCT department
-FROM employees;
+
 
 
