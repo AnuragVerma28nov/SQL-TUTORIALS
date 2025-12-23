@@ -1,3 +1,5 @@
+-- DQL/DRL COMMANDS
+
 -- Syntax
 SELECT column1, column2, ...
 FROM table_name
