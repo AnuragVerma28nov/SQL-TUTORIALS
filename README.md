@@ -9,7 +9,7 @@ Enjoy exploring SQL!
 
 ## 🧑‍💻 Author
   - Anurag Verma 
-  - Year: 2023
+  - Year: 2025
     
 Thank you for visiting this repository!
 
