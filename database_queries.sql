@@ -1,0 +1,10 @@
+-- Database Related Queries
+
+CREATE DATABASE db_name;
+CREATE DATABASE IF NOT EXISTS db_name;
+
+DROP DATABASE db_name;
+DROP DATABASE IF EXISTS db_name;
+
+SHOW DATABASES;
+SHOW TABLES
