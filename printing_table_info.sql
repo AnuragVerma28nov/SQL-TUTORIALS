@@ -1,15 +1,25 @@
+--Selcet Command
+
 --1.Syntax
 SELECT * FROM TableName;
+
 --Example
-SELECT * FROM StudentInfo.student;
+SELECT * FROM student;
 
 --2.Syntax
 SELECT Col1, Col2 FROM TableName;
+
 --Example
-SELECT id, name FROM sqltutorials.student;
+SELECT id, name FROM student;
 
 --3.Syntax
-SELECT * FROM Database.TableName;
+SELECT * FROM DatabaseName.TableName;
 
 --Example
-SELECT * FROM sqltutorials.student;
+SELECT * FROM StudentInfo.student;
+
+--4.Syntax
+SELECT Col1, Col2 FROM DatabaseName.TableName;
+
+--Example
+SELECT id, name FROM StudentInfo.student;
