@@ -31,5 +31,11 @@ RENAME TABLE Table_Name To New_Table_Name;
 RENAME DATABASE Database_Name To New_Database_Name;
 
 -- 6.COMMENT
+-- Syntax
+
 COMMENT ON TABLE table_name IS 'Comment';
 COMMENT ON COLUMN table_name.column_name IS 'Comment';
+
+--7.USE
+-- Syntax
+USE database_name;

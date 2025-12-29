@@ -1,4 +1,4 @@
---Selcet Command
+--SELECT COMMAND
 
 --1.Syntax
 SELECT * FROM TableName;
