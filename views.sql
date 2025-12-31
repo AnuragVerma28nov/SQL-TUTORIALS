@@ -58,3 +58,4 @@ WHERE condition;
 CREATE OR REPLACE VIEW student_view AS
 SELECT id, name, age, city
 FROM students;
+
