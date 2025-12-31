@@ -39,3 +39,4 @@ COMMENT ON COLUMN table_name.column_name IS 'Comment';
 --7.USE
 -- Syntax
 USE database_name;
+
