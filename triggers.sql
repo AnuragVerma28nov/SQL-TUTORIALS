@@ -75,3 +75,4 @@ END;
 DROP TRIGGER trigger_name;
 --Example
 DROP TRIGGER before_student_insert;
+
