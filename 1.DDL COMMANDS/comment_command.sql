@@ -29,3 +29,4 @@ COMMENT ON CONSTRAINT pk_students_id ON students IS 'Primary key for students ta
 COMMENT ON TABLE table_name IS NULL;
 --Example
 COMMENT ON TABLE students IS NULL;
+
