@@ -39,3 +39,4 @@ WHERE condition;
 CREATE INDEX idx_active_students
 ON students(name)
 WHERE status = 'Active';
+
