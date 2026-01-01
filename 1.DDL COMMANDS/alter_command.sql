@@ -31,3 +31,4 @@ ADD CONSTRAINT constraint_name constraint_type (column_name);
 --Example (Primary Key)
 ALTER TABLE students
 ADD CONSTRAINT pk_id PRIMARY KEY (id);
+
