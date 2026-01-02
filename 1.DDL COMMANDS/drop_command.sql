@@ -33,3 +33,4 @@ DROP CONSTRAINT constraint_name;
 --Example
 ALTER TABLE students
 DROP CONSTRAINT pk_students_id;;
+
