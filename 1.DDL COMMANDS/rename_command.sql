@@ -29,3 +29,5 @@ RENAME CONSTRAINT old_constraint_name TO new_constraint_name;
 --Example
 ALTER TABLE students
 RENAME CONSTRAINT pk_students_id TO pk_student_id;
+
+
