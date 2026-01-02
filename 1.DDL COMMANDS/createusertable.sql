@@ -10,3 +10,4 @@ CREATE TABLE users (
     salary DECIMAL(10, 2),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
