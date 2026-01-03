@@ -29,3 +29,4 @@ TRUNCATE TABLE school.students;
 TRUNCATE TABLE table_name CASCADE;
 --Example
 TRUNCATE TABLE students CASCADE;
+
