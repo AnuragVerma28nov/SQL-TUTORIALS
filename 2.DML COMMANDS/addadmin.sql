@@ -12,3 +12,4 @@ INSERT INTO admin_users (id, name, email, gender, date_of_birth, salary) VALUES
 (102, 'Pooja Sharma', 'pooja@example.com', 'Female', '1992-09-20', 58000),
 (103, 'Rakesh Yadav', 'rakesh@example.com', 'Male', '1989-11-05', 54000),
 (104, 'Fatima Begum', 'fatima@example.com', 'Female', '1990-06-30', 62000);
+
