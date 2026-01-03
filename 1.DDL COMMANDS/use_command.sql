@@ -4,3 +4,4 @@
 USE database_name;
 --Example
 USE school_db;
+
