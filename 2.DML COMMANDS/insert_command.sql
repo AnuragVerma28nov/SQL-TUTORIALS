@@ -43,3 +43,4 @@ VALUES (value1, DEFAULT);
 --Example
 INSERT INTO students (id, city)
 VALUES (5, DEFAULT);
+
