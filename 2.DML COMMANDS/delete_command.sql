@@ -36,3 +36,4 @@ DELETE s
 FROM students s
 JOIN attendance a ON s.id = a.id
 WHERE a.status = 'Absent';
+
