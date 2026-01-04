@@ -59,3 +59,5 @@ GROUP BY column_name;
 SELECT city, AVG(marks)
 FROM students
 GROUP BY city;
+
+
