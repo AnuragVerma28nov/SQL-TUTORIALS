@@ -49,3 +49,4 @@ WHERE condition;
 UPDATE students
 SET marks = marks + 5
 WHERE class = 10;
+
