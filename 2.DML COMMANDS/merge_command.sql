@@ -42,3 +42,4 @@ ON (t.id = s.id)
 WHEN MATCHED THEN
     UPDATE SET t.status = s.status
     DELETE WHERE s.status = 'Inactive';
+
