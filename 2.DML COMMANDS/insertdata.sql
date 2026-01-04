@@ -24,3 +24,4 @@ INSERT INTO users (name, email, gender, date_of_birth, salary) VALUES
 ('Lata', 'lata@example.com', 'Female', '1984-11-11', 78000.00),
 ('Yash', 'yash@example.com', 'Male', '1997-06-06', 64000.00),
 ('Fatima', 'fatima@example.com', 'Female', '1993-03-03', 55000.00);
+
