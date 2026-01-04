@@ -33,3 +33,4 @@ FROM table_name;
 --Example
 SELECT COUNT(DISTINCT city)
 FROM students;
+
