@@ -55,3 +55,5 @@ SELECT city, COUNT(*)
 FROM students
 GROUP BY city
 ORDER BY COUNT(*) DESC;
+
+
