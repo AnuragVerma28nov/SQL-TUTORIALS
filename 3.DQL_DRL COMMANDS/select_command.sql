@@ -23,3 +23,4 @@ SELECT Col1, Col2 FROM DatabaseName.TableName;
 
 --Example
 SELECT id, name FROM StudentInfo.student;
+
