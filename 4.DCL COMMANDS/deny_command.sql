@@ -49,3 +49,4 @@ TO user_name;
 DENY SELECT
 ON SCHEMA::school
 TO anurag;
+
