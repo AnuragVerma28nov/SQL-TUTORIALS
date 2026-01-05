@@ -82,3 +82,4 @@ WHERE column_name IS NULL;
 --Example
 SELECT * FROM students
 WHERE email IS NULL;
+
