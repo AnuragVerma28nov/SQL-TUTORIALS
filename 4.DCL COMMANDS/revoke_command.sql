@@ -47,3 +47,5 @@ FROM user_name;
 --Example
 REVOKE admin_role
 FROM anurag;
+
+
