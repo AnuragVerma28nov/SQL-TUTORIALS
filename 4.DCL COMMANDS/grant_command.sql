@@ -49,3 +49,5 @@ TO user_name;
 --Example
 GRANT admin_role
 TO anurag;
+
+
