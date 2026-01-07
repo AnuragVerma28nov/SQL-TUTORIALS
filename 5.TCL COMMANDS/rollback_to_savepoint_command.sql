@@ -41,3 +41,4 @@ SAVEPOINT sp1;
 INSERT INTO students VALUES (7, 'Karan', 23);
 ROLLBACK TO sp1; -- cancels Karan only
 COMMIT; -- commits Simran insert
+
