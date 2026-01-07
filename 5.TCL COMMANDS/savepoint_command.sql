@@ -36,3 +36,5 @@ SAVEPOINT sp1;
 INSERT INTO students VALUES (4, 'Amit', 22);
 ROLLBACK TO sp1; -- cancels only last insert
 COMMIT; -- commits earlier insert
+
+
