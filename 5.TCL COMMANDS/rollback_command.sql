@@ -39,3 +39,4 @@ BEGIN TRANSACTION;
 UPDATE students SET age = 23 WHERE id = 2;
 -- error occurs
 ROLLBACK;
+
