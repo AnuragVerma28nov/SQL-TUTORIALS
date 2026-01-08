@@ -8,3 +8,4 @@ CROSS JOIN table2 b;
 SELECT students.name, courses.course_name
 FROM students
 CROSS JOIN courses;
+
