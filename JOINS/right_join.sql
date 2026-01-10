@@ -10,3 +10,4 @@ SELECT students.id, students.name, courses.course_name
 FROM students
 RIGHT JOIN courses
 ON students.course_id = courses.id;
+
