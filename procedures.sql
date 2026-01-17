@@ -63,6 +63,3 @@ SELECT @name;
 DROP PROCEDURE procedure_name;
 --Example
 DROP PROCEDURE get_all_students;
-
-
-
